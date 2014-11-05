@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 $(function() {
-    $(".blob-code").css("font-family", "fantasque sans mono");
-    $(".blob-code").css("font-size", 12.5);
+    $(".blob-code, pre").css("font-family", "fantasque sans mono");
+    $(".blob-code, pre").css("font-size", 13);
 });
 
