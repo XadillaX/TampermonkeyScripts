@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         CodeGame code font to \"Fantasque Sans Mono\"
+// @name         CodeGame code font to "Fantasque Sans Mono"
 // @updateURL    https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/codegame-fonter.js
 // @downloadURL  https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/codegame-fonter.js
 // @namespace    http://xcoder.in/
-// @version      0.2
-// @description  Change CodeGame font to \"Fantasque Sans Mono\".
+// @version      0.3
+// @description  Change CodeGame font to "Fantasque Sans Mono".
 // @author       XadillaX
 // @match        http://codegame.org/code/*
 // @require      http://libs.useso.com/js/jquery/2.1.1/jquery.min.js
@@ -20,3 +20,4 @@ $(function() {
         }
     });
 });
+
