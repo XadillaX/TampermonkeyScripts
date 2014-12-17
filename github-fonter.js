@@ -8,8 +8,5 @@
 // @match        https://github.com/*
 // ==/UserScript==
 
-$(function() {
-    $(".blob-code, pre").css("font-family", "fantasque sans mono");
-    $(".blob-code, pre").css("font-size", 13);
-});
+GM_addStyle(".blob-code, pre { font-family: \"fantasque sans mono\"; font-size: 13px; }");
 
