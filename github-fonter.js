@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Github code font to \"Fantasque Sans Mono\"
 // @updateURL    https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/github-fonter.js
-// @namespace    https://xcoder.in/
-// @version      0.1
+// @namespace    http://xcoder.in/
+// @version      0.2
 // @description  Change github font to \"Fantasque Sans Mono\".
 // @author       XadillaX
 // @match        https://github.com/*
