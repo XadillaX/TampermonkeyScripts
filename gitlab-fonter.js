@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Gitlab code font to \"Fantasque Sans Mono\"
 // @updateURL    https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/gitlab-fonter.js
+// @downloadURL  https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/gitlab-fonter.js
 // @namespace    http://xcoder.in/
 // @version      0.2
 // @description  Change gitlab font to \"Fantasque Sans Mono\". You may add your own gitlab address your company hosted.

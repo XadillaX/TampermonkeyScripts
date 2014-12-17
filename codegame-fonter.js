@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         CodeGame code font to \"Fantasque Sans Mono\"
 // @updateURL    https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/codegame-fonter.js
+// @downloadURL  https://raw.githubusercontent.com/XadillaX/TampermonkeyScripts/master/codegame-fonter.js
 // @namespace    http://xcoder.in/
 // @version      0.2
 // @description  Change CodeGame font to \"Fantasque Sans Mono\".
