@@ -3,4 +3,4 @@ TampermonkeyScripts
 
 A repo to hold Tampermonkey scripts.
 
-> By XadillaX
+> By XadillaX with ❤
